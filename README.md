@@ -1,7 +1,7 @@
 # windows-terminal-msx-colors
 [MSX](https://en.wikipedia.org/wiki/MSX)-like color scheme for [Windows terminal.](https://github.com/microsoft/terminal)
 
-++Not ready at all++
+**Not ready at all**
 
 ## LICENSE
 
