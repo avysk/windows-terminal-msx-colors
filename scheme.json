@@ -1,0 +1,23 @@
+{
+    "name": "MSX-like",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#CCCCCC",
+    "background": "#5955E0",
+    "foreground": "#FFFFFF",
+    "black": "#5955E0",
+    "blue": "#000000",
+    "cyan": "#3EB849",
+    "green": "#3AA241",
+    "purple": "#DB6559",
+    "red": "#B95E51",
+    "white": "#CCCCCC",
+    "yellow": "#CCC35E",
+    "brightBlack": "#8076F1",
+    "brightBlue": "#CCCCCC",
+    "brightCyan": "#65DBEF",
+    "brightGreen": "#74D07D",
+    "brightPurple": "#B766B5",
+    "brightRed": "#FF897D",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#DED087"
+}
